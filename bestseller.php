@@ -46,7 +46,7 @@
 												<ins class="new-price">850</ins>
 												<!-- <del class="old-price"></del> -->
 											</div>
-											<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+											<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 										</div>
 									</div>
 								</div>
@@ -70,7 +70,7 @@
 												<ins class="new-price">1550</ins>
 												<!-- <del class="old-price"> </del> -->
 											</div>
-											<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+											<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 										</div>
 									</div>
 								</div>
@@ -94,7 +94,7 @@
 												<ins class="new-price">50</ins>
 												<!-- <del class="old-price"> </del> -->
 											</div>
-											<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+											<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 										</div>
 									</div>
 								</div>
@@ -118,7 +118,7 @@
 												<ins class="new-price">150</ins>
 												<!-- <del class="old-price"> </del> -->
 											</div>
-											<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+											<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 										</div>
 									</div>
 								</div>
@@ -142,7 +142,7 @@
 												<ins class="new-price">850</ins>
 												<!-- <del class="old-price"></del> -->
 											</div>
-											<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+											<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 										</div>
 									</div>
 								</div>
@@ -166,7 +166,7 @@
 												<ins class="new-price">1550</ins>
 												<!-- <del class="old-price"> </del> -->
 											</div>
-											<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+											<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 										</div>
 									</div>
 								</div>
@@ -190,7 +190,7 @@
 												<ins class="new-price">50</ins>
 												<!-- <del class="old-price"> </del> -->
 											</div>
-											<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+											<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 										</div>
 									</div>
 								</div>
@@ -214,7 +214,7 @@
 												<ins class="new-price">150</ins>
 												<!-- <del class="old-price"> </del> -->
 											</div>
-											<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+											<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 										</div>
 									</div>
 								</div>

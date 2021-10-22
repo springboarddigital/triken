@@ -20,9 +20,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="country_chicken_curry_cut_small_with_skin.php"><img src="assets/images/products/currycut.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                        </div>
                         <div class="product-label-group">
                             <label class="product-label label-discount">7% Off</label>
                         </div>
@@ -38,7 +35,7 @@
 								<ins class="new-price">650</ins>
 								<del class="old-price">800</del>
 							</div>
-							<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+							<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 						</div>
 					</div>
                 </div>
@@ -48,9 +45,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/uncut.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                        </div>
                         <!-- <div class="product-label-group">
                             <label class="product-label label-discount">7% Off</label>
                         </div> -->
@@ -66,7 +60,7 @@
 								<ins class="new-price">1750</ins>
 								<!-- <del class="old-price"></del> -->
 							</div>
-							<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+							<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 						</div>
 					</div>
                 </div>
@@ -76,9 +70,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/whole.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                        </div>
                         <div class="product-label-group">
                             <label class="product-label label-discount best">Best Seller</label>
                             <label class="product-label label-discount">7% Off</label>
@@ -95,7 +86,7 @@
 								<ins class="new-price">750</ins>
 								<!-- <del class="old-price">800</del> -->
 							</div>
-							<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+							<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 						</div>
 					</div>
                 </div>
@@ -105,9 +96,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/briyanicut.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                        </div>
                         <!-- <div class="product-label-group">
                             <label class="product-label label-discount">7% Off</label>
                         </div> -->
@@ -123,7 +111,7 @@
 								<ins class="new-price">550</ins>
 								<del class="old-price">800</del>
 							</div>
-							<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+							<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 						</div>
 					</div>
                 </div>
@@ -132,10 +120,7 @@
         	<div class="product-wrap">
                 <div class="product text-center">
                    	<figure class="product-media">
-                        <a href="#"><img src="assets/images/products/currycut.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                        </div>
+                        <a href="#"><img src="assets/images/products/currycut.jpg" alt="Product"/> </a>                       
                         <div class="product-label-group">
                             <label class="product-label label-discount">7% Off</label>
                         </div>
@@ -151,7 +136,7 @@
 								<ins class="new-price">650</ins>
 								<del class="old-price">800</del>
 							</div>
-							<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+							<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 						</div>
 					</div>
                 </div>
@@ -161,9 +146,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/whole.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                        </div>
                         <div class="product-label-group">
                             <label class="product-label label-discount best">Best Seller</label>
                             <label class="product-label label-discount">7% Off</label>
@@ -180,7 +162,7 @@
 								<ins class="new-price">750</ins>
 								<!-- <del class="old-price">800</del> -->
 							</div>
-							<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+							<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 						</div>
 					</div>
                 </div>
@@ -190,9 +172,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/uncut.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                        </div>
                         <!-- <div class="product-label-group">
                             <label class="product-label label-discount">7% Off</label>
                         </div> -->
@@ -208,7 +187,7 @@
 								<ins class="new-price">1750</ins>
 								<!-- <del class="old-price"></del> -->
 							</div>
-							<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+							<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 						</div>
 					</div>
                 </div>
@@ -218,9 +197,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/currycut.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                        </div>
                         <div class="product-label-group">
                             <label class="product-label label-discount">7% Off</label>
                         </div>
@@ -236,7 +212,7 @@
 								<ins class="new-price">650</ins>
 								<del class="old-price">800</del>
 							</div>
-							<div class="col-md-4"><a href="#" class="add_cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
+							<div class="col-md-4"><a href="#" class="add_cart btn-cart" title="Add to Cart"><i class="w-icon-plus"></i> Add</a></div>
 						</div>
 					</div>
                 </div>

@@ -23,7 +23,7 @@
                     </div>
                     <div class="header-right">
                         <div class="header-call d-xs-show d-lg-flex align-items-center">
-                                    <a href="#">About</a>
+                                    <a href="about.php">About</a>
                         </div>
                         <a href="#" class="">Log In/Sign Up</a>
                         <div class="dropdown cart-dropdown mr-0 mr-lg-2">
