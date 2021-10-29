@@ -28,7 +28,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-sm-6">
+                        <div class="col-lg-4 col-sm-12">
                             <div class="widget">
                                 <h4 class="widget-title">For Feedback</h4>
                                 <p class="ps-footer__work">Call:  <a href="tel:87457 47510">87457 47510</a> </p>
@@ -40,9 +40,9 @@
                                     Coimbatore - 641015. </address> 
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6 text-center">
+                        <div class="col-lg-3 col-sm-12 text-center">
                             <div class="widget widget-about">
-                                <a href="demo1.html" class="logo-footer">
+                                <a href="index.php" class="logo-footer">
                                     <img src="assets/images/footerlogo.png" alt="logo-footer"/>
                                 </a>
                                 <div class="widget-body follow">
@@ -133,6 +133,7 @@
 <?php include('mobilemenu.php'); ?>
 
     <!-- Plugin JS File -->
+    
     <script src="assets/vendor/jquery/jquery.min.js"></script>
     <script src="assets/vendor/jquery.plugin/jquery.plugin.min.js"></script>
     <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
@@ -140,8 +141,7 @@
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
     <script src="assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
     <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
-
-
+    
 
     <!-- Main Js -->
     <script src="assets/js/main.min.js"></script>

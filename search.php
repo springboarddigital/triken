@@ -7,10 +7,23 @@
     $url = ' '; 
     $page ="Search";
     include('header.php');
+    include('menu.php');
 ?> 
 
+<style>
+    .submenu {display:none;}
+</style>
+
+<section class="searchresult">
+    <div class="container">
+        <h6> Search Results ... <b> (3)</b></h6>
+         <hr>
+    </div>
+</section> 
  
-<section class="productcat">
+
+ 
+<section class="productcat result">
 	<div class="container">
 		<div class="row cols-xl-4 cols-md-4 cols-sm-3 cols-2">
             
@@ -18,11 +31,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/currycut.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                            <a href="#" class="btn-product-icon btn-wishlist w-icon-heart" title="Add to wishlist"></a>
-                            <a href="#" class="btn-product-icon btn-quickview w-icon-search" title="Quickview"></a>
-                        </div>
                         <div class="product-label-group">
                             <label class="product-label label-discount">7% Off</label>
                         </div>
@@ -48,11 +56,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/catla.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                            <a href="#" class="btn-product-icon btn-wishlist w-icon-heart" title="Add to wishlist"></a>
-                            <a href="#" class="btn-product-icon btn-quickview w-icon-search" title="Quickview"></a>
-                        </div>
                         <!-- <div class="product-label-group">
                             <label class="product-label label-discount">7% Off</label>
                         </div> -->
@@ -78,11 +81,6 @@
                 <div class="product text-center">
                    	<figure class="product-media">
                         <a href="#"><img src="assets/images/products/whole.jpg" alt="Product"/> </a>
-                        <div class="product-action-vertical">
-                            <a href="#" class="btn-product-icon btn-cart w-icon-cart" title="Add to cart"></a>
-                            <a href="#" class="btn-product-icon btn-wishlist w-icon-heart" title="Add to wishlist"></a>
-                            <a href="#" class="btn-product-icon btn-quickview w-icon-search" title="Quickview"></a>
-                        </div>
                         <div class="product-label-group">
                             <label class="product-label label-discount best">Best Seller</label>
                             <label class="product-label label-discount">7% Off</label>

@@ -2,7 +2,7 @@
 	<div class="container">
 		<h1 class="title text-center appear-animate"> 5000 families have already chosen fresh,
 daily-cut meat to be delivered at their doorstep. </h1>
-		<div class="row">
+		<div class="row cols-2">
 			<div class="col-lg-3 col-sm-6">
 				<div class="doorstep">
 					<img src="assets/images/testi1.jpg" class="img-responsive" alt="reviews">

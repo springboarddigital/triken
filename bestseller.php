@@ -5,7 +5,7 @@
         		<div class="col-lg-8 col-sm-12"> <h1 class="title text-left appear-animate"> <img src="assets/images/certificate.svg"> Best Selling Products </h1> </div>
         		<div class="col-lg-4 col-sm-12">
 	        		<div class="viewall">
-			        	<a href="#" class="btn btn-dark"> View All </a>
+			        	<a href="bestselling.php" class="btn btn-dark"> View All </a>
 			        </div>
         		</div>
         	</div>
@@ -32,7 +32,7 @@
 									<figure class="product-media">
 		                                <a href="#"><img src="assets/images/products/ooli.jpg" alt="Product"/> </a>
 										<div class="product-label-group">
-		                                	<label class="product-label label-discount">20% Off</label>
+		                                	<label class="product-label label-discount bestseller bestseller">Best Seller </label>
 										</div>
 									</figure>
 									<div class="product-details">
@@ -56,7 +56,7 @@
 									<figure class="product-media">
 		                                <a href="#"><img src="assets/images/products/whole.jpg" alt="Product"/> </a>
 										<div class="product-label-group">
-		                                	<label class="product-label label-discount">20% Off</label>
+		                                	<label class="product-label label-discount bestseller">Best Seller </label>
 										</div>
 									</figure>
 									<div class="product-details">
@@ -80,7 +80,7 @@
 									<figure class="product-media">
 		                                <a href="#"><img src="assets/images/products/countryegg.jpg" alt="Product"/> </a>
 										<div class="product-label-group">
-		                                	<label class="product-label label-discount">20% Off</label>
+		                                	<label class="product-label label-discount bestseller">Best Seller </label>
 										</div>
 									</figure>
 									<div class="product-details">
@@ -104,7 +104,7 @@
 									<figure class="product-media">
 		                                <a href="#"><img src="assets/images/products/catla.jpg" alt="Product"/> </a>
 										<div class="product-label-group">
-		                                	<label class="product-label label-discount">20% Off</label>
+		                                	<label class="product-label label-discount bestseller">Best Seller </label>
 										</div>
 									</figure>
 									<div class="product-details">
@@ -128,7 +128,7 @@
 									<figure class="product-media">
 		                                <a href="#"><img src="assets/images/products/ooli.jpg" alt="Product"/> </a>
 										<div class="product-label-group">
-		                                	<label class="product-label label-discount">20% Off</label>
+		                                	<label class="product-label label-discount bestseller">Best Seller </label>
 										</div>
 									</figure>
 									<div class="product-details">
@@ -152,7 +152,7 @@
 									<figure class="product-media">
 		                                <a href="#"><img src="assets/images/products/whole.jpg" alt="Product"/> </a>
 										<div class="product-label-group">
-		                                	<label class="product-label label-discount">20% Off</label>
+		                                	<label class="product-label label-discount bestseller">Best Seller </label>
 										</div>
 									</figure>
 									<div class="product-details">
@@ -176,7 +176,7 @@
 									<figure class="product-media">
 		                                <a href="#"><img src="assets/images/products/countryegg.jpg" alt="Product"/> </a>
 										<div class="product-label-group">
-		                                	<label class="product-label label-discount">20% Off</label>
+		                                	<label class="product-label label-discount bestseller">Best Seller </label>
 										</div>
 									</figure>
 									<div class="product-details">
@@ -200,7 +200,7 @@
 									<figure class="product-media">
 		                                <a href="#"><img src="assets/images/products/catla.jpg" alt="Product"/> </a>
 										<div class="product-label-group">
-		                                	<label class="product-label label-discount">20% Off</label>
+		                                	<label class="product-label label-discount bestseller">Best Seller </label>
 										</div>
 									</figure>
 									<div class="product-details">

@@ -38,6 +38,7 @@
 	    <!-- Default CSS -->
    		<link rel="stylesheet" type="text/css" href="assets/css/demo12.min.css">
    		<link rel="stylesheet" type="text/css" href="assets/css/todaysstyle.css">
+   		<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
    		<link rel="stylesheet" type="text/css" href="assets/font/font-awesome/css/font-awesome.min">
 

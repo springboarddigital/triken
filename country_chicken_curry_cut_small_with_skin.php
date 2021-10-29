@@ -50,7 +50,7 @@
 		                            </div>
 		                            <div class="swiper-slide">
 		                                <figure class="product-image">
-		                                    <img src="assets/images/products/detail/varuval.jpg" data-zoom-image="assets/images/products/detail/varuval.jpg" alt="Country Chicken Curry cuts Small (varuval) with skin"  >
+		                                    <img src="assets/images/products/detail/varuval.jpg" data-zoom-image="assets/images/products/detail/varuval.jpg" alt="Country Chicken Curry cuts Small (varuval) with skin">
 		                                </figure>
 		                            </div>
 
@@ -125,12 +125,12 @@
 
 		                    <div class="banner-video product-video br-xs">
 		                    	<div class="row">
-		                    		<div class="col-lg-6 col-sm-12">
+		                    		<div class="col-lg-6 col-sm-6">
 		                    			<figure class="media">
 		                                	<a class="btn-play-video btn-iframe" href="#"> <img src="assets/images/products/detail/play.svg"> See our hygienic process </a>
 		                        		</figure>
 		                    		</div>
-		                    		<div class="col-lg-6 col-sm-12">
+		                    		<div class="col-lg-6 col-sm-6">
 		                    			<figure class="delivered">
 		                                	 <img src="assets/images/products/detail/delivery.svg"> Delivered in <b> 120 mins </b>
 		                        		</figure>
@@ -142,6 +142,9 @@
 		        </div>
 		    </div>
 		</div>
+		
+		<?php include('whytodays.php'); ?>
+		
 		<section class="best_seller related appear-animate bg-white">
 			<div class="container">
 		        <div class="widget-body br-sm h-100">
@@ -365,8 +368,6 @@
 		        </div>
 		    </div>
 		</section>
-
-		<?php include('whytodays.php'); ?>
 
 		<?php include('faq.php'); ?>
 

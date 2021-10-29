@@ -5,7 +5,7 @@
         		<div class="col-lg-8 col-sm-12"> <h1 class="title text-left appear-animate"> <img src="assets/images/certificate.svg"> Deal of the Day  </h1> </div>
         		<div class="col-lg-4 col-sm-12">
 	        		<div class="viewall">
-			        	<a href="#" class="btn btn-dark"> View All </a>
+			        	<a href="dod.php" class="btn btn-dark"> View All </a>
 			        </div>
         		</div>
         	</div>
@@ -36,7 +36,7 @@
 								</div>
 							</figure>
 							<div class="product-details">
-								<h3 class="product-name"> <a href="product-default.html">Country Chicken Curry cuts Small (varuval) with skin</a> </h3>
+								<h3 class="product-name"> <a href="#">Country Chicken Curry cuts Small (varuval) with skin</a> </h3>
 								<div class="row prod_quant">
 									<div class="product-cat col-md-6">Net wt: 550 gms</div>
 									<div class="product-cat col-md-6">Delivery: 120 mins</div>
@@ -132,7 +132,7 @@
 								</div>
 							</figure>
 							<div class="product-details">
-								<h3 class="product-name"> <a href="product-default.html">Country Chicken Curry cuts Small (varuval) with skin</a> </h3>
+								<h3 class="product-name"> <a href="#">Country Chicken Curry cuts Small (varuval) with skin</a> </h3>
 								<div class="row prod_quant">
 									<div class="product-cat col-md-6">Net wt: 550 gms</div>
 									<div class="product-cat col-md-6">Delivery: 120 mins</div>

@@ -72,10 +72,25 @@ include ('main.php');
 						</div>
                     </section>
 					
-					<div class="swiper-container recipe swiper-theme post-wrapper appear-animate">
-						<h1 class="title text-center appear-animate"> Recipes for your dishes </h1>
+					<div class="recipe">
+						<h1 class="title text-center appear-animate mb-6"> Related Recipes </h1>
+					<div class="swiper-container swiper-theme post-wrapper appear-animate" data-swiper-options="{
+                    'slidesPerView': 1,
+                    'spaceBetween': 20,
+                    'breakpoints': {
+                        '576': {
+                            'slidesPerView': 1
+                        },
+                        '768': {
+                            'slidesPerView': 3
+                        },
+                        '992': {
+                            'slidesPerView': 3,
+                            'dots': false
+                        }
+                    }
+                }">
 							<div class="swiper-wrapper row ">
-								<div class="col-lg-4 col-sm-12">
 									<div class="swiper-slide post text-center overlay-zoom">
 										<figure class="post-media">
 											<a href="#">
@@ -87,8 +102,6 @@ include ('main.php');
 											<a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
 										</div>
 									</div>
-								</div>
-								<div class="col-lg-4 col-sm-12">
 									<div class="swiper-slide post text-center overlay-zoom">
 										<figure class="post-media">
 											<a href="#">
@@ -100,8 +113,6 @@ include ('main.php');
 											<a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
 										</div>
 									</div>
-								</div>
-								<div class="col-lg-4 col-sm-12">
 									<div class="swiper-slide post text-center overlay-zoom">
 										<figure class="post-media">
 											<a href="#">
@@ -113,8 +124,9 @@ include ('main.php');
 											<a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
 										</div>
 									</div>
-								</div> 
 							</div>
+						</div>
+						
 						</div>
 					
 				</div>

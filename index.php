@@ -8,10 +8,17 @@
     include('header.php');
 ?> 
 
-<body class="home">
+<body>
     <div class="page-wrapper">
     	<div class="main">
-			<?php include('menu.php'); ?>
+
+        <div class='lpopup popup'>
+                <?php include('location.php'); ?>
+                <a href='' class='close'>Close</a>
+        </div>  
+
+
+<?php include('menu.php'); ?>
 
 <!-- banner section -->
 <div class="intro-wrapper homebanner">
@@ -59,16 +66,15 @@
 			
 <?php include('bestseller.php'); ?>
 
-
 <?php include('whytodays.php'); ?>
 
 
 <section class="explore appear-animate">
 	<div class="container">
 		<h1 class="title text-center appear-animate"> Explore by Categories </h1>
-		<div class="row">
+		<div class="row cols-2">
 			<div class="col-lg-3 col-sm-6">
-				<a href="#">
+				<a href="country_chicken.php">
 					<div class="swiper-slide slide-animate" data-animation-options="{'name': 'fadeInDownShorter', 'duration': '.8s', 'delay': '.4s'}" >
 	                    <figure class="category-media">
 	                            <img src="assets/images/countrychicken.jpg" alt="Categroy" />
@@ -116,7 +122,7 @@
                 </a>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row cols-2">
 			<div class="col-lg-3 col-sm-6">
 				<a href="#">
 					<div class="swiper-slide">
@@ -158,71 +164,68 @@
 		</div>
 
 <!-- recipes start -->
-		<div class="swiper-container recipe swiper-theme post-wrapper pb-2 pb-lg-0 mb-5 appear-animate"
-                    data-swiper-options="{
+<div class="recipe">
+						<h1 class="title text-center appear-animate mb-6"> Related Recipes </h1>
+					<div class="swiper-container swiper-theme post-wrapper appear-animate" data-swiper-options="{
                     'slidesPerView': 1,
                     'spaceBetween': 20,
                     'breakpoints': {
                         '576': {
-                            'slidesPerView': 2
+                            'slidesPerView': 1
                         },
                         '768': {
                             'slidesPerView': 3
                         },
                         '992': {
-                            'slidesPerView': 4,
+                            'slidesPerView': 3,
                             'dots': false
                         }
                     }
                 }">
-        <h1 class="title text-center appear-animate"> Recipes for your dishes </h1>
-	        <div class="swiper-wrapper row ">
-	        	<div class="col-lg-4 col-sm-12">
-	        		<div class="swiper-slide post text-center overlay-zoom">
-	                    <figure class="post-media">
-	                        <a href="#">
-	                            <img src="assets/images/garlic.jpg" alt="Recipes" />
-	                        </a>
-	                    </figure>
-	                    <div class="post-details">
-	                        <h4 class="post-title"><a href="#">Garlic Prawns</a></h4>
-	                        <a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
-	                    </div>
-	                </div>
-	        	</div>
-	        	<div class="col-lg-4 col-sm-12">
-	        		<div class="swiper-slide post text-center overlay-zoom">
-	                    <figure class="post-media">
-	                        <a href="#">
-	                            <img src="assets/images/karahi.jpg" alt="Recipes" />
-	                        </a>
-	                    </figure>
-	                    <div class="post-details">
-	                        <h4 class="post-title"><a href="#">Chicken Karahi</a></h4>
-	                        <a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
-	                    </div>
-	                </div>
-	        	</div>
-	        	<div class="col-lg-4 col-sm-12">
-	        		<div class="swiper-slide post text-center overlay-zoom">
-	                    <figure class="post-media">
-	                        <a href="#">
-	                            <img src="assets/images/pepperfry.jpg" alt="Recipes" />
-	                        </a>
-	                    </figure>
-	                    <div class="post-details">
-	                        <h4 class="post-title"><a href="#">Naatu Kozhi Pepperfry</a></h4>
-	                        <a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
-	                    </div>
-	                </div>
-	        	</div> 
-	        </div>
-        </div>
-        <div class="viewall">
-        	<a href="#" class="btn btn-dark"> View All Recipes </a>
-        </div>
-    <!-- recipes end -->
-    </div>	
+							<div class="swiper-wrapper row cols-2">
+									<div class="swiper-slide post text-center overlay-zoom">
+										<figure class="post-media">
+											<a href="recipe-detail.php">
+												<img src="assets/images/garlic.jpg" alt="Recipes" />
+											</a>
+										</figure>
+										<div class="post-details">
+											<h4 class="post-title"><a href="#">Garlic Prawns</a></h4>
+											<a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
+										</div>
+									</div>
+									<div class="swiper-slide post text-center overlay-zoom">
+										<figure class="post-media">
+											<a href="recipe-detail.php">
+												<img src="assets/images/karahi.jpg" alt="Recipes" />
+											</a>
+										</figure>
+										<div class="post-details">
+											<h4 class="post-title"><a href="#">Chicken Karahi</a></h4>
+											<a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
+										</div>
+									</div>
+									<div class="swiper-slide post text-center overlay-zoom">
+										<figure class="post-media">
+											<a href="recipe-detail.php">
+												<img src="assets/images/pepperfry.jpg" alt="Recipes" />
+											</a>
+										</figure>
+										<div class="post-details">
+											<h4 class="post-title"><a href="#">Naatu Kozhi Pepperfry</a></h4>
+											<a href="#" class="btn btn-link btn-dark btn-underline"> View Recipe  <i class="w-icon-long-arrow-right"></i> </a>
+										</div>
+									</div>
+							</div>
+						</div>
+
+						<div class="viewall">
+				        	<a href="recipes.php" class="btn btn-dark"> View All Recipes </a>
+				        </div>
+
+
+						</div>
+				</div>
 </section>
 
  <?php include('review.php'); ?>
@@ -244,33 +247,25 @@
 	</div>	
 </section>
 
-   <!-- Start of Newsletter popup -->
-    <div class="newsletter-popup mfp-hide">
-        <div class="newsletter-content">
-            <h2 class="ls-25">Select your city</h2>
-
-            <div class="city">
-                <ul>
-                    <li> <div class="viewall"> <a href="#" class="btn btn-dark"> Coimbatore </a> </div> </li>
-                    <li> <div class="viewall"> <a href="#" class="btn btn-dark"> Chennai </a> <span class="soon"> Coming Soon! </span> </div> </li>
-                    <li> <div class="viewall"> <a href="#" class="btn btn-dark"> Tiruppur </a> <span class="soon"> Coming Soon! </span> </div> </li>
-                </ul>
-            </div>
-             
-            <form action="#" method="get" class="input-wrapper input-wrapper-inline input-wrapper-round">
-                <input type="text" class="form-control" name="text" id="text"
-                    placeholder="Enter your area" required="">
-                <button class="btn btn-dark" type="submit">Detect my location</button>
-            </form>
-            <p> Expansion of our delivery service into a wider
-geography is underway.</p>
-           <div class="form-checkbox d-flex align-items-center">
-                <input type="checkbox" class="custom-checkbox" id="hide-newsletter-popup" name="hide-newsletter-popup"
-                    required="">
-                <label for="hide-newsletter-popup" class="font-size-sm text-light">Don't show this popup again.</label>
-            </div> 
-        </div>
-    </div>
-    <!-- End of Newsletter popup -->
 
 <?php include('footer.php'); ?>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
+<script type='text/javascript'>
+$(function(){
+var overlay = $('<div id="overlay"></div>');
+overlay.show();
+overlay.appendTo(document.body);
+$('.lpopup').show();
+$('.close').click(function(){
+$('.lpopup').hide();
+overlay.appendTo(document.body).remove();
+return false;
+});
+
+$('.x').click(function(){
+$('.lpopup').hide();
+overlay.appendTo(document.body).remove();
+return false;
+});
+});
+</script>

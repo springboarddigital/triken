@@ -40,23 +40,29 @@ include('main.php');
 					<section class="promise">
 							<h2 class="title title-center">Our Promises</h2>
 						<div class="row promise_box">
-							<div class="col-md-3 icon-box icon-colored-circle icon-border-box">
+							<div class="col-md-4">
+								<div class="icon-box icon-colored-circle icon-border-box">
                                         <div class="icon-box-content">
-                                            <h4 class="icon-box-title">The meat you buy is cut on the same day you receive it.</h4>
+                                            <h4 class="icon-box-title">Our meat and fish are cut on the same day you buy them.</h4>
                                             <p>Stocking the meat isn’t a practice we’re fond of. We cut, clean, and deliver it to you freshly, the same day.</p>
                                         </div>
+								</div>
                             </div>
-							<div class="col-md-3 icon-box icon-colored-circle icon-border-box">
+							<div class="col-md-4">
+								<div class="icon-box icon-colored-circle icon-border-box">
                                         <div class="icon-box-content">
-                                            <h4 class="icon-box-title">We procure the meat only from authentic resources.</h4>
+                                            <h4 class="icon-box-title">We procure our livestock and seafood only from authentic resources.</h4>
                                             <p>When it comes to procurement we’re very picky. The meat you buy from us comes from livestock raised by the farmers we trust the most.</p>
                                         </div>
+								</div>
                             </div>
-							<div class="col-md-3 icon-box icon-colored-circle icon-border-box">
+							<div class="col-md-4">
+								<div class="icon-box icon-colored-circle icon-border-box">
                                         <div class="icon-box-content">
-                                            <h4 class="icon-box-title">You only pay for the pieces you’ll eat.</h4>
+                                            <h4 class="icon-box-title">Our price is only for the pieces you eat, not for the wastage.</h4>
                                             <p>We weigh the meat after it is cut and cleaned so that you don’t have to pay for the parts that aren’t suitable to eat.</p>
                                         </div>
+								</div>
                             </div>
 						
 						</div>
@@ -112,7 +118,7 @@ include('main.php');
 				
 				<section class="about_slider2">
 					<div class="container">
-                        <div class="row align-items-center">
+                        <div class="row align-items-center col-reverse">
                             <div class="col-md-7">
                                     <div class="product-gallery product-gallery-sticky">
                                         <div class="swiper-container product-single-swiper swiper-theme nav-inner" data-swiper-options="{
