@@ -463,7 +463,7 @@ h1.text-left img {padding-right: 10px;}
   line-height: 30px; white-space: pre-line; margin-bottom: 10px; }
 .whytoday p{font-size: 17px; color: #885B32; font-family: 'CerebriSansPro'; font-weight: 400; line-height: 21px;}
 .explore {background-image: url('../images/fether.svg'); background-size: auto; background-repeat: no-repeat;
-background-position: top right;    padding: 5% 0;}
+background-position: top right;    padding: 5% 0 0 0;}
 .post-title { font-size: 20px; color: #333333;  text-align: left;   line-height: 24px; padding-top: 20px;
 margin-bottom: 15px; font-family: 'CerebriSansPro-Medium';   font-weight: 500;   letter-spacing: 0;}
 .recipe .swiper-slide.post {background: #FFFFFF; border: 1px solid #E8E8E8; box-sizing: border-box;
@@ -474,7 +474,7 @@ font-size: 16px; font-family: 'CerebriSansPro'; font-weight: 400; text-transform
 .viewall{text-align: center; margin-top: 15px;}
 .viewall .btn-dark:hover{background-color:#E0522D; color: #fff;}
 .families{background-image:url(../images/familybg.jpg); background-size: contain; background-repeat: no-repeat; 
-  background-position: top;padding: 4% 0; }
+  background-position: top;padding: 4% 0 0 0; }
 .star .fa-star.active {opacity: 1;}
 .star .fa-star { opacity: 0;}
 .fa-star {color: #FEC007; font-size: 15px;}
@@ -501,7 +501,7 @@ p.ps-footer__work {  color: #B5B5B5;  font-size: 16px;}
 .best_seller{  padding: 0 0 5% 0;  background-color: #FFFAF8;}
  .dod {  padding: 5% 0;  background-color: #FFFAF8;}
 .dod .viewall, .best_seller .viewall{margin-top: 0px; float: right;}
-.dod .row, .best_seller .row{padding-bottom: 10px;}
+.dod .row, .best_seller .row{padding-bottom: 10px; align-items:center;}
 .newsletter-content, .popup .content {   width: 100%;}
 .city ul li { list-style: none;  display: inline-block; padding: 10px;}
 .city ul li .location {
@@ -1007,6 +1007,11 @@ span.dslot {color: #828282; font-size: 16px;display: block; padding-bottom: 5px;
 .js-btn-prev , .js-btn-next, .btn-success {display:none;}  
 .product-label.newarrival {  background: #8040FF; float: left; font-size: 16px;}
 .cspace{height:35px;}
+.recipe .viewall { margin-top: 45px;}
+.pg-right .swiper-pagination{visibility:hidden;}
+.radio-item input[type=radio]:checked + label { color: #333333; }
+.radio-item label { cursor: pointer;}
+
 
 /** swiper **/
 
@@ -1018,5 +1023,6 @@ span.dslot {color: #828282; font-size: 16px;display: block; padding-bottom: 5px;
   width: 18px;
   border-radius: 9rem;
 }
+
 
     

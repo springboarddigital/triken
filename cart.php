@@ -231,20 +231,20 @@
                            <td> 
                                 <div class="ecommerce-address billing-address saved-address">
 									<div class="radio-item address">
-										<input type="radio" id="ritema1" name="ritem1" value="ropt1" checked>
-										<label for="ritema">41/2,SRC Sunrise,2nd Floor, Post, Vivekanandha Nagar, Singanallur, Tamil Nadu 641005</label>
+										<input type="radio" id="address1" name="address" value="address1" checked>
+										<label for="address1">41/2,SRC Sunrise,2nd Floor, Post, Vivekanandha Nagar, Singanallur, Tamil Nadu 641005</label>
 										<br>
 										<a href="#" class="btn btn-link btn-underline btn-icon-right" style="color: #E0522D;text-transform: inherit;">Edit</a>
 									</div>
 										<hr>
 									<div class="radio-item address">
-										<input type="radio" id="ritema2" name="ritem2" value="ropt2">
-										<label for="ritema">358 Pudur Coimbatore Coimbatore Tamil Nadu 641015 India</label>
+										<input type="radio" id="address2" name="address" value="address2">
+										<label for="address2">358 Pudur Coimbatore Coimbatore Tamil Nadu 641015 India</label>
 										<br>
 									</div>
 									<div class="radio-item address">
-										<input type="radio" id="ritema3" name="ritem3" value="ropt3">
-										<label for="ritema">358 Pudur Coimbatore Coimbatore Tamil Nadu 641015 India</label>
+										<input type="radio" id="address3" name="address" value="address3">
+										<label for="address3">358 Pudur Coimbatore Coimbatore Tamil Nadu 641015 India</label>
 										<br>
 									</div>
                                 </div>
@@ -436,14 +436,15 @@
 									<hr class="mt-2">
 									<div class="payment-methods" id="payment_method">
                                         <div class="radio-item">
-											<input type="radio" id="ritema" name="ritem" value="ropt1" checked>
-											<label for="ritema">CC Avenue</label>
+											<input type="radio" id="payment1" name="payment" value="payment1" checked>
+											<label for="payment1">CC Avenue</label>
 											<img src="assets/images/ccavenue.png" alt="">
 										</div> 
-                                        <div class="radio-item">
-											<input type="radio" id="ritema" name="ritem" value="ropt1">
-											<label for="ritema">Cash on Delivery</label>
+										<div class="radio-item">	
+											<input type="radio" id="payment2" name="payment" value="payment2">
+											<label for="payment2">Cash on Delivery</label>
 										</div> 
+                                        
 										<button type="submit" class="submit_btn btn btn-dark btn-rounded mb-4 orange_btn">Place Order</button>
                                     </div>
 								</div>

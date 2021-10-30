@@ -81,7 +81,7 @@ span.htext { display: none;}
 .homebanner .nav-inner > .swiper-button-next{right: 2%;}
 .newsletter-popup p, .popup p{white-space: initial;}
 .popup .close{top: 5%; right: 5%;}
-.dod .row, .best_seller .row{flex-wrap: initial;}
+.dod .row, .best_seller .row{flex-wrap: initial; align-items:center;}
 .dod{ padding-top: 15%;}
 .dod .title, .best_seller .title {display: grid; }
 h1.title{font-size: 22px;}
@@ -108,7 +108,8 @@ td.product-name { padding: 0 5px;}
 .whytoday img { width: 50%; margin: 0 auto;}
 .whytoday p{padding-bottom:20px;}
 .whytoday .swiper-theme .swiper-button-prev, .whytoday .swiper-theme .swiper-button-next {  display:none;   }
-.swiper-slide   {   width: 320px !Important; }
+.lpopup .content{padding: 40px 8px;}
+.pg-right .swiper-pagination{visibility:visible;}
 
 }
 

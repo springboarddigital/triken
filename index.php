@@ -20,6 +20,7 @@
 
 <?php include('menu.php'); ?>
 
+
 <!-- banner section -->
 <div class="intro-wrapper homebanner">
     <div class="swiper-container swiper-theme nav-inner swiper-nav-md animation-slider" data-swiper-options="{
@@ -167,7 +168,7 @@
 <div class="recipe">
 						<h1 class="title text-center appear-animate mb-6"> Related Recipes </h1>
 					<div class="swiper-container swiper-theme post-wrapper appear-animate" data-swiper-options="{
-                    'slidesPerView': 1,
+                    'slidesPerView': 1.1,
                     'spaceBetween': 20,
                     'breakpoints': {
                         '576': {

@@ -118,7 +118,7 @@
                     </div>
                     <div class="footer-right">
                         <figure class="payment">
-                            <img src="assets/images/payment.png" alt="payment" width="159" height="25" />
+                            <img src="assets/images/payment.png" alt="payment" />
                         </figure>
                     </div>
                 </div>
@@ -128,9 +128,8 @@
         <!-- Start of Scroll Top -->
         <a id="scroll-top" class="scroll-top" href="#top" title="Top" role="button"> <i class="w-icon-angle-up"></i> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"> <circle id="progress-indicator" fill="transparent" stroke="#000000" stroke-miterlimit="10" cx="35" cy="35" r="34" style="stroke-dasharray: 16.4198, 400;"></circle> </svg> </a>
 
-
-
 <?php include('mobilemenu.php'); ?>
+
 
     <!-- Plugin JS File -->
     
@@ -142,6 +141,7 @@
     <script src="assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
     <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
     
+
 
     <!-- Main Js -->
     <script src="assets/js/main.min.js"></script>

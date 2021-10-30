@@ -9501,9 +9501,6 @@ body .product-popup {
 .product-price .new-price:not(:last-child) {
   margin-right: 0.6rem;
 }
-.product-price:not(:last-child) {
-  margin-bottom: 0.9rem;
-}
 
 .sold-by {
   margin-bottom: 0.5rem;
@@ -9943,10 +9940,8 @@ body .product-popup {
   background-color: #3c8a38;
 }
 
-.social-no-color .social-icon {
-  border-color: #cdcdcd;
-  color: #666;
-}
+.social-no-color .social-icon { border-color: transparent;  color: #333333;
+    background-color: #949494;}
 .social-no-color .social-icon:hover, .social-no-color .social-icon:focus {
   color: #fff;
 }
