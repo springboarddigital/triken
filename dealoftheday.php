@@ -12,7 +12,7 @@
             <div class="swiper slider_sec">
                 <div class="swiper-container swiper-theme nav-top" data-swiper-options="{
                                         'slidesPerView': 1.1,
-                                        'spaceBetween': 20,
+                                        'spaceBetween': 10,
                                         'breakpoints': {
                                             '576': {
                                                 'slidesPerView': 2
