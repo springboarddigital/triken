@@ -54,7 +54,6 @@
 .product-details .row{ display: flex; flex-wrap: initial;}
 .productcat .add_cart{float: right;}
 .add_cart{font-weight: 600;}
-.product .product-name, .single-product-name{min-height: initial;}
 .footer-middle{display:none;}
 .footer-top .row{ flex-direction: row-reverse;}
 .footer-top .col-sm-6 { width: 50%;}
