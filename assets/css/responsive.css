@@ -93,7 +93,7 @@ h1.title{font-size: 22px;}
 .product-video .delivered{line-height: 20px; text-align: right; }
 .product-sticky-content.sticky-content.fix-top.fixed {  background-color: #fff ;  height: auto;  padding-top: 10%; bottom: 0;  top: initial;}
 .product-sticky-content .product-form{border: 0px!important;}
-.cart-table .product-name a{white-space: initial;font-size: 14px; line-height: 20px;}
+.cart-table .product-name a{white-space: initial;font-size: 10px; line-height: 10px;}
 .cartpage .product-thumbnail img { width: auto;  height: auto;}
 td.product-name { padding: 0 5px;}
 .newsletter-popup { padding: 0;}
@@ -109,6 +109,15 @@ td.product-name { padding: 0 5px;}
 .whytoday .swiper-theme .swiper-button-prev, .whytoday .swiper-theme .swiper-button-next {  display:none;   }
 .lpopup .content{padding: 40px 8px;}
 .pg-right .swiper-pagination{visibility:visible;}
+.cart-table .input-group button{right:0.8rem; width:1rem; height:1rem;}
+.cart-table .input-group{width:60px;height:30px;}
+.cart-table .product-quantity .form-control{padding:0 1rem 0 2.5rem;}
+.cartpage .product-price .new-price{font-size:14px;}
+.cartpage span.gms{font-size:10px;}
+.cart-table .input-group button + button{margin-right:4rem;}
+.cart-table .input-group button + button, .cart-table button.quantity-plus
+{border:0px!important;}
+.select-box a{font-size:12px;}
 
 }
 
