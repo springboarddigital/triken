@@ -1025,4 +1025,8 @@ span.dslot {color: #828282; font-size: 16px;display: block; padding-bottom: 5px;
 }
 
 
-    
+/** mobile search **/
+.msearch .productsearch { width: 100%; padding:0; background-color: #D44823;}
+.msearch .header-search.hs-round .btn-search{margin-left:0px;border-radius: 0px;
+    padding: 0 15px;margin: 15px 0;}
+.msearch .header-search.hs-expanded{ background: #e0522d;}
