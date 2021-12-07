@@ -111,6 +111,16 @@
                         </div>
                     </div>
                 </div>
+                <div class="msearch hidden-md">
+                    <form method="get" action="#"
+                                class="input-wrapper header-search hs-expanded hs-round d-md-flex">
+                    <button class="btn btn-search productsearch " type="submit">
+                                    <i class="w-icon-search"></i>
+                                    <input type="text" class="form-control pt-0 pb-0" name="search" id="search" onblur="this.placeholder = 'Search your delicious product'"
+                                    placeholder="Search your delicious product" onfocus="this.placeholder = ''" required />
+                                </button>
+                    </form>
+                </div>
                 <div class="submenu">
                     <div class="container">
                 <div class="category-wrapper row cols-12">
